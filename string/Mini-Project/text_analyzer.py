@@ -1,4 +1,5 @@
 # mini-project : text analyser
+#Gyanendra Kumar Rajbhar
 
 text = input("Enter  a text : ")
 characters = words = vowels = consonants = digits = uppercase = lowercase = special_characters = whitespace = 0
